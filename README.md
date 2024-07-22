@@ -8,9 +8,9 @@ npm install
 
 2.To run the application
 
-$npm run dev
+$ npm run dev
 
 3.To stop the application,
 
-press $Ctrl + C in the terminal
+press $ Ctrl + C in the terminal
 

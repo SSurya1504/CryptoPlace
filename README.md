@@ -4,6 +4,7 @@ CryptoPlace is a web application designed to track the real time price of crypto
 https://crypto-price-tracking.netlify.app/
 ## Run the application
 1.In the project directory,you can run
+
 npm install
 
 2.To run the application
